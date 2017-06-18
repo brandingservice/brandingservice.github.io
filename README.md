@@ -1,6 +1,5 @@
 # Branding services
-
-This is a service for you if you develop branding for SharePoint. For small fee you will get SharePoint 2013 or SharePoint 2016 sites with sample structure and you will start branding project immediately!
+This is a service for you if you develop branding for SharePoint. For small fee you will get SharePoint 2013 or SharePoint 2016 sites with sample structure and you will start branding project immediately! Refer to our [wiki on GitHub](https://github.com/brandingservice/brandingservice.github.io/wiki).
 
 ## Prices
 Three day trial is totally free. Just register the form below and start branding your SharePoint sites.
