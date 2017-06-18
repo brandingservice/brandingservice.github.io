@@ -5,12 +5,44 @@ BODY {
 }
 .textarea
 {
-    padding-left: 20px;
-    padding-right: 20px;
     margin-bottom: 30px;
+}
+.limitedwidth
+{
+    max-width: 980px;
+}
+@media (min-width: 980px) {
+    .limitedwidth
+    {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+.sidemargins
+{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+@media (min-width: 1037px) {
+    .limitedwidth.sidemargins
+    {
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 .orderform
 {
     width: 100%;
-    height: 1820px;
+    height: 2000px;
 }
+@media (min-width: 360px) {
+    .orderform
+    {
+        height: 1900px;
+    }
+}
+@media (min-width: 435px) {
+    .orderform
+    {
+        height: 1800px;
+    }
